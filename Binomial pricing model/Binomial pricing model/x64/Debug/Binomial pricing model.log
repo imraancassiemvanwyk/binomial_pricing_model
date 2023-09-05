@@ -1,0 +1,3 @@
+﻿  Binomial pricing model.cpp
+C:\Users\imraa\source\repos\Binomial pricing model\Binomial pricing model\Binomial pricing model.cpp(61,36): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  Binomial pricing model.vcxproj -> C:\Users\imraa\source\repos\Binomial pricing model\x64\Debug\Binomial pricing model.exe
